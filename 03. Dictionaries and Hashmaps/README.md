@@ -59,6 +59,7 @@ Operation   Array   Output </br>
 (2,1)       [1,1]          </br>
 (3,2)                   1  </br>
 Return an array with the output: [0,1]. </br>
+**Input** : </br>
 8 </br>
 1 5 </br>
 1 6 </br>
