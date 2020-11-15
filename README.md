@@ -20,3 +20,10 @@ HackerRank Interview Preparation Kit solutions.
 3. [Sherlock and Anagrams](https://github.com/amogh2004/HackerRank-Solutions/blob/main/03.%20Dictionaries%20and%20Hashmaps/03.%20Sherlock%20and%20Anagrams.py)
 4. [Count Triplets](https://github.com/amogh2004/HackerRank-Solutions/blob/main/03.%20Dictionaries%20and%20Hashmaps/04.%20Count%20Triplets.py)
 5. [Frequency Queries](https://github.com/amogh2004/HackerRank-Solutions/blob/main/03.%20Dictionaries%20and%20Hashmaps/05.%20Frequency%20Queries.py)
+
+## Sorting
+1. [Sorting-Bubble Sort](https://github.com/amogh2004/HackerRank-Solutions/blob/main/04.%20Sorting/01.%20Sorting:%20Bubble%20Sort.py)
+2. [Mark and Toys](https://github.com/amogh2004/HackerRank-Solutions/blob/main/04.%20Sorting/02.%20Mark%20and%20Toys.py)
+3. [Sorting-Comparator](https://github.com/amogh2004/HackerRank-Solutions/blob/main/04.%20Sorting/03.%20Sorting:%20Comparator.py)
+4. [Fraudulent Activity Notifications](https://github.com/amogh2004/HackerRank-Solutions/blob/main/04.%20Sorting/04.%20Fraudulent%20Activity%20Notifications.py)
+5. [Merge Sort- Counting Inversions](https://github.com/amogh2004/HackerRank-Solutions/blob/main/04.%20Sorting/05.%20Merge%20Sort:%20Counting%20Inversions.py)
