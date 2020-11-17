@@ -27,3 +27,10 @@ HackerRank Interview Preparation Kit solutions.
 3. [Sorting-Comparator](https://github.com/amogh2004/HackerRank-Solutions/blob/main/04.%20Sorting/03.%20Sorting:%20Comparator.py)
 4. [Fraudulent Activity Notifications](https://github.com/amogh2004/HackerRank-Solutions/blob/main/04.%20Sorting/04.%20Fraudulent%20Activity%20Notifications.py)
 5. [Merge Sort- Counting Inversions](https://github.com/amogh2004/HackerRank-Solutions/blob/main/04.%20Sorting/05.%20Merge%20Sort:%20Counting%20Inversions.py)
+
+## String Manipulation
+1. [Strings: Making Anagrams](https://github.com/amogh2004/HackerRank-Solutions/blob/main/05.%20String%20Manipulation/01.%20Strings:%20Making%20Anagrams.py)
+2. [Alternating Characters](https://github.com/amogh2004/HackerRank-Solutions/blob/main/05.%20String%20Manipulation/02.%20Alternating%20Characters.py)
+3. [Sherlock and the Valid String](https://github.com/amogh2004/HackerRank-Solutions/blob/main/05.%20String%20Manipulation/03.%20Sherlock%20and%20the%20Valid%20String.py)
+4. [Special String Again](https://github.com/amogh2004/HackerRank-Solutions/blob/main/05.%20String%20Manipulation/04.%20Special%20String%20Again.py)
+5. [Common Child](https://github.com/amogh2004/HackerRank-Solutions/blob/main/05.%20String%20Manipulation/05.%20Common%20Child.py)
