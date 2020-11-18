@@ -34,3 +34,10 @@ HackerRank Interview Preparation Kit solutions.
 3. [Sherlock and the Valid String](https://github.com/amogh2004/HackerRank-Solutions/blob/main/05.%20String%20Manipulation/03.%20Sherlock%20and%20the%20Valid%20String.py)
 4. [Special String Again](https://github.com/amogh2004/HackerRank-Solutions/blob/main/05.%20String%20Manipulation/04.%20Special%20String%20Again.py)
 5. [Common Child](https://github.com/amogh2004/HackerRank-Solutions/blob/main/05.%20String%20Manipulation/05.%20Common%20Child.py)
+
+## Greedy Algorithms
+1. [Minimum Absolute Difference in an Array](https://github.com/amogh2004/HackerRank-Solutions/blob/main/06.%20Greedy%20Algorithms/01.%20Minimum%20Absolute%20Difference%20in%20an%20Array.py)
+2. [Luck Balance](https://github.com/amogh2004/HackerRank-Solutions/blob/main/06.%20Greedy%20Algorithms/02.%20Luck%20Balance.py)
+3. [Greedy Florist](https://github.com/amogh2004/HackerRank-Solutions/blob/main/06.%20Greedy%20Algorithms/03.%20Greedy%20Florist.py)
+4. [Max Min](https://github.com/amogh2004/HackerRank-Solutions/blob/main/06.%20Greedy%20Algorithms/04.%20Max%20Min.py)
+5. [Reverse Shuffle Merge](https://github.com/amogh2004/HackerRank-Solutions/blob/main/06.%20Greedy%20Algorithms/05.%20Reverse%20Shuffle%20Merge.py)
