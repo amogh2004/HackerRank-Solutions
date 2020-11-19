@@ -41,3 +41,10 @@ HackerRank Interview Preparation Kit solutions.
 3. [Greedy Florist](https://github.com/amogh2004/HackerRank-Solutions/blob/main/06.%20Greedy%20Algorithms/03.%20Greedy%20Florist.py)
 4. [Max Min](https://github.com/amogh2004/HackerRank-Solutions/blob/main/06.%20Greedy%20Algorithms/04.%20Max%20Min.py)
 5. [Reverse Shuffle Merge](https://github.com/amogh2004/HackerRank-Solutions/blob/main/06.%20Greedy%20Algorithms/05.%20Reverse%20Shuffle%20Merge.py)
+
+## Search
+1. [Hash Tables- Ice Cream Parlor](https://github.com/amogh2004/HackerRank-Solutions/blob/main/07.%20Search/01.%20Hash%20Tables:%20Ice%20Cream%20Parlor.py)
+2. [Swap Nodes (Algo)](https://github.com/amogh2004/HackerRank-Solutions/blob/main/07.%20Search/02.%20Swap%20Nodes%20%5BAlgo%5D.py)
+3. [Pairs](https://github.com/amogh2004/HackerRank-Solutions/blob/main/07.%20Search/03.%20Pairs.py)
+4. [Triple sum](https://github.com/amogh2004/HackerRank-Solutions/blob/main/07.%20Search/04.%20Triple%20sum.py)
+5. [Minimum Time Required](https://github.com/amogh2004/HackerRank-Solutions/blob/main/07.%20Search/05.%20Minimum%20Time%20Required.py)
