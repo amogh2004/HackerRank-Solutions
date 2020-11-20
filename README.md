@@ -48,3 +48,9 @@ HackerRank Interview Preparation Kit solutions.
 3. [Pairs](https://github.com/amogh2004/HackerRank-Solutions/blob/main/07.%20Search/03.%20Pairs.py)
 4. [Triple sum](https://github.com/amogh2004/HackerRank-Solutions/blob/main/07.%20Search/04.%20Triple%20sum.py)
 5. [Minimum Time Required](https://github.com/amogh2004/HackerRank-Solutions/blob/main/07.%20Search/05.%20Minimum%20Time%20Required.py)
+
+## Dynamic Programming
+1. [Max Array Sum](https://github.com/amogh2004/HackerRank-Solutions/blob/main/08.%20Dynamic%20Programming/01.%20Max%20Array%20Sum.py)
+2. [Abbreviation](https://github.com/amogh2004/HackerRank-Solutions/blob/main/08.%20Dynamic%20Programming/02.%20Abbreviation.py)
+3. [Candies](https://github.com/amogh2004/HackerRank-Solutions/blob/main/08.%20Dynamic%20Programming/03.%20Candies.py)
+4. [Decibinary Numbers](https://github.com/amogh2004/HackerRank-Solutions/blob/main/08.%20Dynamic%20Programming/04.%20Decibinary%20Numbers.java)
