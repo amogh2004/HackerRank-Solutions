@@ -53,7 +53,7 @@ For example, the heights array h=[3,2,3]. A rectangle of height h=2 and length k
 1 2 3 4 5 </br>
 **Output** : </br>
 9 </br>
-**[Explanation:](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)** </br></br>
+**[Explanation](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)** </br></br>
 
 
 ### 04: Castle on the Grid
