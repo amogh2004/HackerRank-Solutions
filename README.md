@@ -60,3 +60,9 @@ HackerRank Interview Preparation Kit solutions.
 2. [Queues: A Tale of Two Stacks](https://github.com/amogh2004/HackerRank-Solutions/blob/main/09.%20Stacks%20and%20Queues/02.%20Queues:%20A%20Tale%20of%20Two%20Stacks.py)
 3. [Largest Rectangle](https://github.com/amogh2004/HackerRank-Solutions/blob/main/09.%20Stacks%20and%20Queues/03.%20Largest%20Rectangle.py)
 4. [Castle on the Grid](https://github.com/amogh2004/HackerRank-Solutions/blob/main/09.%20Stacks%20and%20Queues/04.%20Castle%20on%20the%20Grid.py)
+
+## Recursion and Backtracking
+1. [Recursion- Fibonacci Numbers](https://github.com/amogh2004/HackerRank-Solutions/blob/main/10.%20Recursion%20and%20Backtracking/01.%20Recursion:%20Fibonacci%20Numbers.py)
+2. [Recursion- Davis' Staircase](https://github.com/amogh2004/HackerRank-Solutions/blob/main/10.%20Recursion%20and%20Backtracking/02.%20Recursion:%20Davis'%20Staircase.py)
+3. [Crossword Puzzle](https://github.com/amogh2004/HackerRank-Solutions/blob/main/10.%20Recursion%20and%20Backtracking/03.%20Crossword%20Puzzle.java)
+4. [Recursive Digit Sum](https://github.com/amogh2004/HackerRank-Solutions/blob/main/10.%20Recursion%20and%20Backtracking/04.%20Recursive%20Digit%20Sum.py)
