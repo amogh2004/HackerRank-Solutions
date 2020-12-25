@@ -1,9 +1,9 @@
 ### 01: Recursion- Fibonacci Numbers
 The Fibonacci Sequence appears in nature all around us, in the arrangement of seeds in a sunflower and the spiral of a nautilus, for example. Return the nth element in the Fibonacci sequence. </br>
 **Input** : </br>
-3 </br>
+3  </br>
 **Output** : </br>
-2 </br></br>
+2  </br></br>
 
 ### 02: Recursion- Davis' Staircase
 Davis has a number of staircases in his house and he likes to climb each staircase 1, 2, or 3 steps at a time. Being a very precocious child, he wonders how many ways there are to reach the top of the staircase. </br>
