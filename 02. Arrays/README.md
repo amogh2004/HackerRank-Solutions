@@ -5,8 +5,7 @@ Given a 6x6 2D Array, arr: </br>
 1 1 1 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0 </br> </br>
-
+0 0 0 0 0 0 </br>
 An hourglass in A is a subset of values with indices falling in this pattern in arr's graphical representation: </br>
 a b c </br>
   d   </br>
